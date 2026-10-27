@@ -1,3 +1,7 @@
 01-01-starting+code.zip
 node_modules
+<<<<<<< HEAD
 .DS_Store
+=======
+*.zip
+>>>>>>> feat/cart
